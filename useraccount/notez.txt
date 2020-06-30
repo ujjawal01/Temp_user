@@ -1,0 +1,3 @@
+for getting all(queryset) projects of a user
+n=ORMUser.objects.get(username='vineet123')
+x=ORMProject.objects.filter(ormuser=n)

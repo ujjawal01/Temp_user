@@ -1,0 +1,2 @@
+All skill by user end point working
+create skill is addding skill to user by id
